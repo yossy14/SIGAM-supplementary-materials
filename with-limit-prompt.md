@@ -63,3 +63,8 @@ llm_dict["意思決定論"] = ["BI_ビジネスマインド", "BI_MECE", …]
 target = ●●
 
 n =
+
+
+
+
+（2026年7～10月 / NotebookLM(現・Gemini Notebook) を使用）
